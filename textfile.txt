@@ -1,0 +1,20 @@
+
+Power BI Sales Project
+
+In this project, I created a sales analysis report using Power BI.
+
+First, I collected monthly sales Excel files and one employee data file.
+I loaded all files into Power BI using Power Query.
+I combined all monthly sales files into one table.
+I checked column headers and data types and cleaned the data.
+
+After that, I loaded the data into the Power BI model.
+I created relationships between sales and other tables like product, customer, date, and region.
+
+Use Matrix table
+-Sales grouped by product category and region
+-Return reasons by Fiscal year
+-Revenue by customer segment
+
+Finally, I saved the Power BI file and uploaded all project files to GitHub.
+
